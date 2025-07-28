@@ -126,7 +126,6 @@ Click Deploy
 
 ## 🖼️ Sign-Up Page Preview
 
-![Sign-Up Page](./assets/signup-preview.png)
 
 
 
