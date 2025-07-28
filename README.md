@@ -124,5 +124,10 @@ Click Deploy
 
 ✅ Verify OTP: On success, logs in the user with a JWT
 
+## 🖼️ Sign-Up Page Preview
+
+![Sign-Up Page](./assets/signup-preview.png)
+
+
 
 
