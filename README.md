@@ -125,5 +125,4 @@ Click Deploy
 ✅ Verify OTP: On success, logs in the user with a JWT
 
 
-  Version Control: Git  and right now you can login via google and cause get otp option sent otp to my email id 
 
